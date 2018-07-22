@@ -1,0 +1,15 @@
+body {
+	background-color: orange;
+}
+/*element selector*/
+li{
+	border: 2px solid red;
+}
+/*id selector*/
+#special{
+	background-color: white;
+}
+/*class selector*/
+.completed{
+	text-decoration: line-through;
+}

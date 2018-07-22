@@ -1,0 +1,41 @@
+.date{
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	color: #3984db;
+	font-family: 'Shrikhand', cursive;
+}
+p{
+	font-family: 'Spirax', cursive;
+
+}
+body{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border: 10px solid #bdc3c7;
+    width: 700px;
+    margin: 0 auto;
+
+
+}
+h2{
+	color: #2c2e50;
+	font-size: 2.0rem;
+}
+.quote{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+
+}
+.line-separator{
+
+height:1px;
+
+background:#717171;
+
+border-bottom:1px solid #bdc3c7;
+}
+.post{
+	margin-bottom: 20px;
+}

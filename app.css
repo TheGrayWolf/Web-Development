@@ -1,0 +1,29 @@
+h1{
+
+/*borders have:
+width
+color
+style*/
+
+	color: rgba(0,200,100,8);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 8px solid red;
+}
+li{
+	color: blue;
+}
+h3{
+	color: green;
+	background:rgb(255,100,80);
+}
+
+
+body
+{
+	background: white;
+/*	background: url(https://media0.giphy.com/media/bU6GKBpWaJ4tO/200w.webp);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
